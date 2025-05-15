@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+SENSOR FAULT PREDICTION/venv/
+
 
 # Spyder project settings
 .spyderproject
