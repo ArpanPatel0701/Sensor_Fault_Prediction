@@ -19,7 +19,7 @@ from typing import List
 #     return requirements
 
 
-def get_requirements()->list[str]:
+def get_requirements()->List[str]:
     requirements_list : List[str] = []
     return requirements_list
 
